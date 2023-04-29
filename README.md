@@ -1,2 +1,2 @@
 # capstone-one-test
-https://www.udemy.com/course/the-complete-web-development-bootcamp/
+[My not-so-real Resume](https://degd.github.io/capstone-one-test/)
